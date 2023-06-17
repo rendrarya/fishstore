@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661507628120",
+    "project_id": "flutternew-bd0ed",
+    "storage_bucket": "flutternew-bd0ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661507628120:android:73ab5487e138bd0a097e2d",
+        "android_client_info": {
+          "package_name": "com.example.fishstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661507628120-es68gd4n1discrl57qfclme6rbo8hnu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGHyhwxdfEMGbQ4Ww6eFJLffrbHqZedE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661507628120-es68gd4n1discrl57qfclme6rbo8hnu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
